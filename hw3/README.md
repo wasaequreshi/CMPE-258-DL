@@ -1,4 +1,4 @@
-# # Homework 3 Explaination
+# Homework 3 Explaination
 
 ## Generating the data
 I first needed to create a method to generate the desired input and output, 3 input 2 output. This is reperesented as the following:
