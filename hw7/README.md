@@ -18,4 +18,4 @@ I read through the article and followed the steps. Reading the colab is not enou
 
 This was also using this guide: https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android#0
 
-I read through the article and followed the steps. I ran the colab to get the tflite model (added that as well.) I then made the respective changes in the MainActivity.kt file. I was not able to run this on my machine however. But I followed the steps and theoretically this should work on your machine upon running :)
+I read through the article and followed the steps. I ran the colab to get the tflite model (added that as well.) I then made the respective changes in the MainActivity.kt file. I was not able to run this on my machine however and mimiced every step I could to the best of my ability. I followed the steps and theoretically this should work on your machine upon running :)
