@@ -1,5 +1,7 @@
 # Submission Information
 
+Every extra credit was attempted
+
 ## Part a
 
 This is the code that I followed: https://github.com/lmoroney/tfbook/tree/master/chapter18/RockPaperScissors
@@ -18,9 +20,17 @@ I read through the article and followed the steps. Reading the colab is not enou
 
 This was also using this guide: https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android#0
 
-I read through the article and followed the steps. I ran the colab to get the tflite model (added that as well.) I then made the respective changes in the MainActivity.kt file. I was not able to run this on my machine however and mimiced every step I could to the best of my ability. I followed the steps and theoretically this should work on your machine upon running :)
+I read through the article and followed the steps. I ran the colab to get the tflite model (added that as well.) I then made the respective changes in the MainActivity.kt file. I was not able to run this on my machine however (M1 Mac, I think some issues with the new processor) and mimiced every step. I followed the steps and theoretically this should work on your machine upon running :)
 
 ## Part d
 This was also using this guide: https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#8
 
 I followed the code and step for this. This is actually quite amazing. I tested this and it was detecting me and the fridge that was behind me. This you can test without setting up android studio.
+
+## Part e
+This was also using this guide: https://colab.research.google.com/drive/1Gxr8IbHrC8HnZ2sQ0ukeJxhYAGR_3B9u
+
+I copied the colab and followed the steps. I ran the whole thing and checked each step (similar steps for our final project). Since finishing my studying for my final, I know that RNN's would be really good for this (and this is what they use in the colab with a mix of CNN). They did single step models and multi step models and compared the different models. I can't really implement this from scratch but hopefully running the steps and reading through this will suffice for some credit. Interesting research and implementation for forecasting on climate.
+
+## Conclusion
+I really liked part a and part d. The output and results were really fun and used my laptop webcam. The android one I didn't get to test myself but looks like it would be just as fun. I will probably run that on a intel based machine and see if that works to test the tflite mode. I also had the limitation of running the app since I do not have an android device. I can get around that with an emulator however (but that really slows down the PC and hits the fans!).
