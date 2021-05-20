@@ -1,6 +1,6 @@
 # Submission Information
 
-Every extra credit was attempted
+Every extra credit was done
 
 ## Part a
 
@@ -30,7 +30,7 @@ I followed the code and step for this. This is actually quite amazing. I tested 
 ## Part e
 This was also using this guide: https://colab.research.google.com/drive/1Gxr8IbHrC8HnZ2sQ0ukeJxhYAGR_3B9u
 
-I copied the colab and followed the steps. I ran the whole thing and checked each step (similar steps for our final project). Since finishing my studying for my final, I know that RNN's would be really good for this (and this is what they use in the colab with a mix of CNN). They did single step models and multi step models and compared the different models. I can't really implement this from scratch but hopefully running the steps and reading through this will suffice for some credit. Interesting research and implementation for forecasting on climate.
+I copied the colab and followed the steps. I ran the whole thing (this took a while to finish running) and checked each step (similar steps for our final project). Since finishing my studying for my final, I know that RNN's would be really good for this (and this is what they use in the colab with a mix of CNN). They did single step models and multi step models and compared the different models. I can't really implement this from scratch but hopefully running the steps and reading through this will suffice for some credit. Interesting research and implementation for forecasting on climate.
 
 ## Conclusion
 I really liked part a and part d. The output and results were really fun and used my laptop webcam. The android one I didn't get to test myself but looks like it would be just as fun. I will probably run that on a intel based machine and see if that works to test the tflite mode. I also had the limitation of running the app since I do not have an android device. I can get around that with an emulator however (but that really slows down the PC and hits the fans!).
